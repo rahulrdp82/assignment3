@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/https/rahulrdp82.github.io/assignment3/static/css/main.75bd96f8.css",
+    "main.js": "/https/rahulrdp82.github.io/assignment3/static/js/main.68e30592.js",
+    "static/js/453.17fea729.chunk.js": "/https/rahulrdp82.github.io/assignment3/static/js/453.17fea729.chunk.js",
+    "static/media/tips.csv": "/https/rahulrdp82.github.io/assignment3/static/media/tips.43007c7e472255eef549.csv",
+    "index.html": "/https/rahulrdp82.github.io/assignment3/index.html",
+    "main.75bd96f8.css.map": "/https/rahulrdp82.github.io/assignment3/static/css/main.75bd96f8.css.map",
+    "main.68e30592.js.map": "/https/rahulrdp82.github.io/assignment3/static/js/main.68e30592.js.map",
+    "453.17fea729.chunk.js.map": "/https/rahulrdp82.github.io/assignment3/static/js/453.17fea729.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.75bd96f8.css",
+    "static/js/main.68e30592.js"
+  ]
+}
